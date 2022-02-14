@@ -1,0 +1,52 @@
+<!-- json template -->
+
+<script>
+var template = {
+    "title":"标题", //页面标题
+    "selectable":true, //text标签是否可选（全局选项，如果对象有设置则对象中的设置优先）
+    "pagePadding":"20rpx 20rpx", // 页面边距（可选）
+    "fontSize":"37rpx", //全局text标签默认字体大小（其他标签类型不受影响，对象单独设置要加 "!important"，单位：rpx/px）
+    "list":[
+        {
+            "type":"html",
+            "content":"<p style=\"color:red\">Hello</p><p style=\"color:blue\"> Hello</p>"
+        },
+        {
+            "type":"image",
+            "src":"https://s1.ax1x.com/2020/09/09/w3c1gS.jpg", // 图片资源地址
+            "style":"width:90%;margin-left:5%;border-radius:8%;box-sizing:border-box",
+            "mode":"aspectFill", // 图片显示模式 参考：https://uniapp.dcloud.io/component/image
+            "previewable":true // 图片是否可预览
+        },
+        {
+            "type":"view",
+            "style":"",
+            "content":"这是在view里的"
+        },
+        {
+            "type":"text",
+            "style":"",
+            "content":"这是在text里的(不可选) ",
+            "selectable":false
+        },
+        {
+            "type":"text",
+            "style":"",
+            "content":"这是在text里的(可选)"
+        },
+        {
+            "type":"navigateToMiniProgram",
+            "icon":"https://s1.ax1x.com/2020/09/09/w3c1gS.jpg", // 小程序图标
+            "style":"padding:20rpx", // 组件样式
+            "name":"HPU校园", //小程序名称
+            "appId":"wx7a2de562948f667b", // 小程序appId
+            "path":"pages/frs/frs?kw=河南理工大学", // 跳转路径 path
+            "abstract":"服务于你我服务服务于你我服务于你我服务于你我服务于你我服务于你我" // 小程序简介
+        },
+        {
+            "type":"officialAccount", // 关注公众号组件 参考：https://developers.weixin.qq.com/miniprogram/dev/component/official-account.html
+            "style":"padding:20rpx;box-sizing:border-box"
+        }
+    ]
+}
+</script>

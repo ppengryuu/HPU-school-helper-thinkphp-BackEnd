@@ -1,0 +1,109 @@
+{
+    "title":"课程表更新公告",
+    "selectable":false,
+    "pageStyle":"",
+    "list":[
+        {
+            "type":"image",
+            "src":"https://tvax1.sinaimg.cn/large/0084cf44gy1giyog40pmuj32wh1xn4ap.jpg",
+            "style":"width:100%;box-sizing:border-box;padding-bottom:30rpx;height:auto",
+            "mode":"widthFix",
+            "previewable":false
+        },{
+            "type":"view",
+            "content":"",
+            "style":"padding:20rpx;box-sizing:border-box;border-bottom:1px solid #eee"
+        },
+        {
+            "type":"view",
+            "content":"Tips 1",
+            "style":"padding:20rpx;font-size:36rpx;font-weight:bold;text-align:center"
+        },
+        
+        {
+            "type":"view",
+            "content":"由于课程表算法更新，已经导入过课程表的需要先重新导入一下课程表才能使用新版课程表哦 ~",
+            "style":"box-sizing:border-box;margin:20rpx 150rpx;padding:20rpx;font-size:30rpx;text-indent:25px;border:1px solid #eee;background:#eae2c2"
+        },{
+            "type":"view",
+            "content":"",
+            "style":"padding:20rpx;box-sizing:border-box;border-bottom:1px solid #eee"
+        },{
+            "type":"view",
+            "content":"Tips 2",
+            "style":"padding:20rpx;font-size:36rpx;font-weight:bold;text-align:center"
+        },{
+            "type":"view",
+            "content":"左右滑动切换上课周，快来get!",
+            "style":"box-sizing:border-box;margin:20rpx 150rpx;padding:20rpx;font-size:30rpx;text-indent:25px;border:1px solid #eee;background:#eae2c2"
+        },{
+            "type":"image",
+            "src":"https://tvax4.sinaimg.cn/large/0084cf44ly1giypk7k6vig30as0iohdt.gif",
+            "style":"width:70%;box-sizing:border-box;padding-bottom:30rpx;height:auto;margin-left:15%",
+            "mode":"widthFix",
+            "previewable":false
+        },{
+            "type":"view",
+            "content":"",
+            "style":"padding:20rpx;box-sizing:border-box;border-bottom:1px solid #eee"
+        },{
+            "type":"view",
+            "content":"Tips 3",
+            "style":"padding:20rpx;font-size:36rpx;font-weight:bold;text-align:center"
+        },{
+            "type":"view",
+            "content":"点击课程，查看课程详情",
+            "style":"box-sizing:border-box;margin:20rpx 150rpx;padding:20rpx;font-size:30rpx;text-indent:25px;border:1px solid #eee;background:#eae2c2"
+        },{
+            "type":"image",
+            "src":"https://tva3.sinaimg.cn/large/0084cf44ly1gizi5d7owwg30as0ioe81.gif",
+            "style":"width:70%;box-sizing:border-box;padding-bottom:30rpx;height:auto;margin-left:15%",
+            "mode":"widthFix",
+            "previewable":false
+        },{
+            "type":"view",
+            "content":"",
+            "style":"padding:20rpx;box-sizing:border-box;border-bottom:1px solid #eee"
+        },{
+            "type":"view",
+            "content":"Tips 4",
+            "style":"padding:20rpx;font-size:36rpx;font-weight:bold;text-align:center"
+        },{
+            "type":"view",
+            "content":"课程表支持自定义背景图片，快pick一张你喜欢的图片当作背景吧！支持gif呦 ~",
+            "style":"box-sizing:border-box;margin:20rpx 150rpx;padding:20rpx;font-size:30rpx;text-indent:25px;border:1px solid #eee;background:#eae2c2"
+        },{
+            "type":"image",
+            "src":"https://tvax2.sinaimg.cn/large/0084cf44ly1gizi5h1840g30as0iox6p.gif",
+            "style":"width:70%;box-sizing:border-box;padding-bottom:30rpx;height:auto;margin-left:15%",
+            "mode":"widthFix",
+            "previewable":false
+        },{
+            "type":"view",
+            "content":"",
+            "style":"padding:20rpx;box-sizing:border-box;border-bottom:1px solid #eee"
+        },{
+            "type":"view",
+            "content":"Tips 5",
+            "style":"padding:20rpx;font-size:36rpx;font-weight:bold;text-align:center"
+        },{
+            "type":"view",
+            "content":"课程调整？有课外安排的课程？不用怕，用编辑课程表可以轻松删除、添加、修改课程",
+            "style":"box-sizing:border-box;margin:20rpx 150rpx;padding:20rpx;font-size:30rpx;text-indent:25px;border:1px solid #eee;background:#eae2c2"
+        },{
+            "type":"image",
+            "src":"https://tva2.sinaimg.cn/large/0084cf44ly1gizi5fmxlpg30as0iob2a.gif",
+            "style":"width:70%;box-sizing:border-box;padding-bottom:30rpx;height:auto;margin-left:15%",
+            "mode":"widthFix",
+            "previewable":false
+        },{
+            "type":"image",
+            "src":"https://tva3.sinaimg.cn/large/0084cf44ly1gizip7b4wjg30as0io7wh.gif",
+            "style":"width:70%;box-sizing:border-box;padding-bottom:30rpx;height:auto;margin-left:15%",
+            "mode":"widthFix",
+            "previewable":false
+        }
+        
+    ]
+}
+

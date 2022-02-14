@@ -1,0 +1,56 @@
+{
+    "title":"这是一个测试",
+    "selectable":true,
+    "pageStyle":"padding:20rpx;font-size:66rpx",
+    "list":[
+        {
+            "type":"image",
+            "src":"https://s1.ax1x.com/2020/09/09/w3c1gS.jpg",
+            "style":"width:90%;margin-left:5%;border-radius:8%;box-sizing:border-box",
+            "mode":"aspectFill",
+            "previewable":false
+        },
+        {
+            "type":"html",
+            "content":"<span style=\"color:red\">Hello</span><span style=\"color:blue\"> Hello</span>"
+        },
+        {
+            "type":"image",
+            "src":"https://tva2.sinaimg.cn/large/0084cf44ly1gipfvlcemoj3076076jrt.jpg",
+            "style":"width:90%;margin-left:5%;border-radius:8%;box-sizing:border-box",
+            "mode":"aspectFit",
+            "previewable":true
+        },
+        {
+            "type":"view",
+            "style":"font-size:20rpx",
+            "content":"这是在view里的"
+        },
+        {
+            "type":"text",
+            "style":"",
+            "content":"这是在text里的\n(不可选) ",
+            "selectable":false
+        },
+        {
+            "type":"text",
+            "style":"",
+            "content":"这是在text里的(可选)"
+        },
+        {
+            "type":"navigateToMiniProgram",
+            "icon":"https://s1.ax1x.com/2020/09/09/w3c1gS.jpg",
+            "mpIcon":true,
+            "style":"padding:20rpx",
+            "name":"贴吧",
+            "appId":"wx7a2de562948f667b",
+            "path":"pages/frs/frs?kw=河南理工大学",
+            "abstract":"百度贴吧"
+        },
+        {
+            "type":"officialAccount",
+            "style":"padding:20rpx;box-sizing:border-box"
+        }
+    ]
+}
+
